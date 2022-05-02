@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Listing posts</string>
+    <string name="post_title">Título</string>
+    <string name="post_title_hint">Título</string>
+    <string name="user_email">E-mail</string>
+    <string name="post_body">Comentário</string>
+    <string name="post_body_hint">Comentário</string>
+    <string name="post_reply_title">O que a galera comentou sobre\n\"%1$s\"</string>
+    <string name="no_internet_connection">Sem internet</string>
+    <string name="generic_error">Ocorreu um erro</string>
+    <string name="try_again">Tente novamente</string>
+</resources>
